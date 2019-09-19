@@ -1,3 +1,4 @@
 .idea
 kafkacourse.iml
 target
+kafka_key.properties
